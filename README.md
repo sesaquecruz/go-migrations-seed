@@ -1,7 +1,8 @@
 # Go SQL Seed
 
-This app provides an easy way for executing migrations and populating the database with additional data. It eliminates the need to include SQL files containing test data in the same migrations directory to both being executed. This is particularly useful when running a local Docker Compose with services for testing purposes.
+This app provides an easy way to execute migrations and populate the database with additional data, which is particularly useful when running a local Docker Compose with services for testing purposes.
 
+It allows keeping separate test data and migration files, at the same time that both can be applied sequentially.
 
 ## Contributing
 
