@@ -2,7 +2,7 @@
 
 This app provides an easy way to execute migrations and populate the database with additional data, which is particularly useful when running a local Docker Compose with services for testing purposes.
 
-It allows keeping separate test data and migration files, at the same time that both can be applied sequentially.
+It allows keeping separate data and migration files while applying them using a single container app.
 
 ## Contributing
 
