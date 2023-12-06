@@ -18,7 +18,7 @@ The migration files must be in a format recognized by [migrate](https://github.c
 
 ### Use an existing image
 
-1. Pull the image from this [repository package](https://github.com/sesaquecruz/go-sql-seed/pkgs/container/go-sql-seede).
+1. Pull the image from this repository package.
 
 2. Add a service in your `docker-compose.yml` file.
 
